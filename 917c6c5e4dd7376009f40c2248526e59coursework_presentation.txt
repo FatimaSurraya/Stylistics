@@ -1,0 +1,467 @@
+WEBVTT
+
+00:00:04.000 --> 00:00:12.000
+Hello, everyone. As promised, I wanted to prepare a little presentation for you just going over the coursework.
+
+00:00:12.000 --> 00:00:15.000
+For this module in a little bit more detail. So that's what we'll be doing today.
+
+00:00:15.000 --> 00:00:25.000
+I'll try and keep it relatively brief. But hopefully this will answer some of the questions.
+
+00:00:25.000 --> 00:00:28.000
+That you've had. So I'll go over some brief tips, some frequently asked questions and also a suggested structure.
+
+00:00:28.000 --> 00:00:45.000
+For the coursework. This shouldn't be new to you, especially those of you who did submit the formative or diagnostic task back at the beginning of the semester.
+
+00:00:45.000 --> 00:00:47.000
+It was just going to be a reminder of a potential way that you might like to structure your work.
+
+00:00:47.000 --> 00:01:02.000
+I'll also remind you of referencing conventions and how to avoid plagiarism. I'll also talk you through the learning outcomes for the module.
+
+00:01:02.000 --> 00:01:06.000
+We'll also take a look at the marking rubric. I'll point you in the direction of where you can find more detail on that.
+
+00:01:06.000 --> 00:01:15.000
+And I'll show you what kind of questions I'll be asking myself when I mark your work as well.
+
+00:01:15.000 --> 00:01:20.000
+Okay, so first of all, if we just take another quick look at the assignment brief here, please do not rely on this PowerPoint presentation.
+
+00:01:20.000 --> 00:01:36.000
+There is an entire document which constitutes the assignment brief and you should certainly download that and make sure that you have it and read through it.
+
+00:01:36.000 --> 00:02:02.000
+You can find it by going to the journey section on the other page and then if you choose the assessment link on the left hand side, you will see that there is a link to the assignment brief that On that page you can download not only the assignment brief but also the text options that are available to you to analyze.
+
+00:02:02.000 --> 00:02:11.000
+And also a reminder of the different frameworks that we look at on the module from which you can select.
+
+00:02:11.000 --> 00:02:17.000
+A number to apply. For the, for the assessment.
+
+00:02:17.000 --> 00:02:27.000
+So as you already know, the task is to compile a portfolio of 3 separate stylistic analytical tasks.
+
+00:02:27.000 --> 00:02:43.000
+So the first 2 tasks. Are quite similar. In that they are both 1,000 words in length. And you will be choosing for each of these tasks a text.
+
+00:02:43.000 --> 00:02:56.000
+From the assessment page on Al that I have provided for you. So for task one. This is the literary text analysis.
+
+00:02:56.000 --> 00:03:04.000
+You need to choose one of the texts from the literary texts list on the module out the page.
+
+00:03:04.000 --> 00:03:12.000
+Many of these texts will be familiar to you already because we will have begun our analysis of these in the class sessions.
+
+00:03:12.000 --> 00:03:20.000
+So the Daffodils column is on the list. Game is on the list, Wolf Hall is on the list.
+
+00:03:20.000 --> 00:03:34.000
+Etc. So you may choose to Expand the analysis that we started in class. Develop it and present that for your coursework portfolio.
+
+00:03:34.000 --> 00:03:50.000
+You will also see that some of the texts on the list are new. These are texts that we have not looked at in class together and they are offered to you in case you want to have a go at something a bit different.
+
+00:03:50.000 --> 00:04:03.000
+One thing to note at this point as well. Something that I mentioned back in week one or 2. One question that I sometimes get is Do we have to apply?
+
+00:04:03.000 --> 00:04:16.000
+The same framework to the text as we did in class. So, for example, In week 6, we were looking at speech and thought.
+
+00:04:16.000 --> 00:04:23.000
+And we were doing that in the context of Wolf Hall, the historical novel, the opening of the historical novel.
+
+00:04:23.000 --> 00:04:36.000
+So the question might be If I choose Wolf Hall as a text to analyze, do I have to do a speech and thought representation analysis or can I choose something different?
+
+00:04:36.000 --> 00:04:44.000
+The answer is you can choose something different. Okay, so you do not have to use the same framework.
+
+00:04:44.000 --> 00:04:49.000
+As we looked at in the module. To apply to that text. You can mix it up a little bit.
+
+00:04:49.000 --> 00:04:55.000
+If you want to.
+
+00:04:55.000 --> 00:05:05.000
+The only stipulation though is that you must choose a framework that we have studied on the module. And for task one and task 2.
+
+00:05:05.000 --> 00:05:15.000
+You must choose a text. From the appropriate list. You cannot choose a text of your bone.
+
+00:05:15.000 --> 00:05:23.000
+So task one, literary text analysis, choose one of the texts from the literary texts list on the module, the page.
+
+00:05:23.000 --> 00:05:26.000
+Undertaker stylistic analysis and interpretation of your text using an appropriate analytical framework or frameworks studied on the module.
+
+00:05:26.000 --> 00:05:42.000
+And this task will be approximately 1,000 words in length. This does not include tables, figures. Appendices, references.
+
+00:05:42.000 --> 00:05:56.000
+It is just the writing, that you do. Task 2 is exactly the same structure, although here you will be choosing a text from the non literary texts list.
+
+00:05:56.000 --> 00:06:06.000
+You will notice that this list is a little bit shorter and that's because, well, stylistic analysis traditionally or usually is applied to literary text.
+
+00:06:06.000 --> 00:06:22.000
+So we do focus more on literature, poetry, fiction than we do on non literary text. So it's a slightly smaller pool of texts to choose from, but hopefully you'll find something that interests you there.
+
+00:06:22.000 --> 00:06:34.000
+Okay, another important stipulation for task 2. Is that you must choose a different framework to the one you used in task one.
+
+00:06:34.000 --> 00:06:37.000
+So for example, if you focused on metaphor in task one, you have to choose a different framework for task 2.
+
+00:06:37.000 --> 00:06:48.000
+Maybe lexical semantics or speech and thought presentation or whatever that might be.
+
+00:06:48.000 --> 00:07:01.000
+Is that tusk? Is an analysis of a text of your choice. This can be literary or non-literary, but it must be a text that has not been studied already on the module.
+
+00:07:01.000 --> 00:07:08.000
+And it must be a text that was not offered as an option for task one or task 2.
+
+00:07:08.000 --> 00:07:21.000
+Again, you are going to be undertaking a stylistic analysis and interpretation of this text. Using an appropriate analytical framework of frameworks from the module.
+
+00:07:21.000 --> 00:07:29.000
+In this case, you may use the same frameworks as you used in task one or 2. There is no problem repeating the same frameworks.
+
+00:07:29.000 --> 00:07:40.000
+However, for this task Because you are applying your frameworks to a text of your own choice and because there's a little bit more scope for, you know, creativity here.
+
+00:07:40.000 --> 00:07:48.000
+You are also being asked to explain why you have chosen the framework. Sorry, my highlighting has gone a little bit off there.
+
+00:07:48.000 --> 00:07:57.000
+Why you've chosen the framework or frameworks that you have. And here you want to consider why it is particularly well suited to the text you have chosen.
+
+00:07:57.000 --> 00:08:03.000
+I'll explain that a little bit further. In a moment. And task 3 is longer.
+
+00:08:03.000 --> 00:08:08.000
+So here we've got 2,000 words.
+
+00:08:08.000 --> 00:08:17.000
+You'll be including one reference list at the end of your portfolio, which will include all of the works you have cited throughout the portfolio.
+
+00:08:17.000 --> 00:08:31.000
+And your complete portfolio should be 4,000 words. The plus or minus 10% rule does apply, so that's anywhere between 3,000 604,400 words to be accepted.
+
+00:08:31.000 --> 00:08:46.000
+The web count as I mentioned does not include tables, figures, appendices or the reference list. I recommend that you stick as closely as possible to the word count guidance for the individual tasks.
+
+00:08:46.000 --> 00:08:55.000
+So task one and 2 should be approximately 1,000 words each and task 3 approximately 2,000 words.
+
+00:08:55.000 --> 00:09:02.000
+Okay, so moving on.
+
+00:09:02.000 --> 00:09:11.000
+A few questions now that I'm often asked by students about the coursework. The first is for the 2 short term analyses.
+
+00:09:11.000 --> 00:09:21.000
+So task one and task 2, where you will be writing 1,000 words. A question I'm often asked is how many frameworks should be used for these.
+
+00:09:21.000 --> 00:09:30.000
+Can we just use one or can we use more than one? And the answer I would say is The safest thing to do is focus on one.
+
+00:09:30.000 --> 00:09:40.000
+But then if you want to bring in elements of others, you can. So for example, lexical semantics and defamiliarization might go quite well together.
+
+00:09:40.000 --> 00:09:52.000
+So you might choose to focus on lexical semantics and then comment on how particular lexical choices may have a foregrounding effect.
+
+00:09:52.000 --> 00:10:04.000
+Another question I'm often asked that is related to this is if we do more than one if we do this if we focus on one framework and then bring in elements of others but the focus is on one.
+
+00:10:04.000 --> 00:10:16.000
+Does that mean that we can use? In task 2. The framework that we did not focus on even if we mentioned it in task one.
+
+00:10:16.000 --> 00:10:25.000
+And the answer to that I would say is yes. So long as you're not directly repeating frameworks across task one and task 2.
+
+00:10:25.000 --> 00:10:41.000
+If you just mention a particular framework in both tasks, then that will be okay. I recommend that if you think you are in this situation, you let me know and I can check and make sure that it's going to be okay.
+
+00:10:41.000 --> 00:10:42.000
+Okay, similarly how many frameworks can we use for task 3? Again, this is very much up to you.
+
+00:10:42.000 --> 00:10:54.000
+You only have 2,000 words so I really recommend that you do not certainly you do not try to include all the frameworks we've encountered on the module.
+
+00:10:54.000 --> 00:11:06.000
+I can tell you that in the past students have tended to use 2 to 3 frameworks for this task.
+
+00:11:06.000 --> 00:11:18.000
+Any more than that and you run the risk of diluting your analysis and not giving yourself enough space in your workout to go into sufficient depth.
+
+00:11:18.000 --> 00:11:30.000
+But I think if you tried to only use one framework Depending on the text and the framework that you choose, you might struggle to meet that 2,000 word word count.
+
+00:11:30.000 --> 00:11:35.000
+Again, these are all questions that are going to be quite sort of specific to your own ideas. So feel free to get in touch and I can help you.
+
+00:11:35.000 --> 00:11:42.000
+Individually.
+
+00:11:42.000 --> 00:11:45.000
+So in terms of a suggested structure then, remember that the goal of stylistics is to connect linguistic facts.
+
+00:11:45.000 --> 00:12:03.000
+With meaning. Or linguistic description with interpretation or for our purposes the terminology that we've been using is more to talking about analysis and interpretation.
+
+00:12:03.000 --> 00:12:10.000
+Analysis is what you do to your text. You apply your framework. And you get some sort of result from it.
+
+00:12:10.000 --> 00:12:18.000
+So you do your metaphor analysis and you get get a heap of metaphors. You apply your speech and thought presentation framework and you get a sort of set of how the speech and thought in a text is presented.
+
+00:12:18.000 --> 00:12:29.000
+You do your lexical semantic analysis, you end up with a table of all the different Mexico relationships, that kind of thing.
+
+00:12:29.000 --> 00:12:42.000
+That's the analysis. And that is one part, the first part of each course web task. The second part then is connecting that.
+
+00:12:42.000 --> 00:12:51.000
+Analysis that description to meaning or interpretation. And here the question that you need to be asking yourself is who cares?
+
+00:12:51.000 --> 00:13:04.000
+Why is this interesting? What does this tell us? What effect do these features have? And again here you can be led by the kinds of discussions that we've been having in class.
+
+00:13:04.000 --> 00:13:17.000
+What is the effect of Wordsworth talking about Daffodils as if they are people? How does that build up a certain sort of view of these daffodils and how Wordsworth feels about them for us the readers?
+
+00:13:17.000 --> 00:13:24.000
+These are the questions that you want to be asking, of course for the text that you choose to analyze.
+
+00:13:24.000 --> 00:13:36.000
+For each task I recommend that you begin with a short introduction where you tell your reader what text you'll be working on and what framework or frameworks you will be using to analyze that.
+
+00:13:36.000 --> 00:13:44.000
+But task 3 as I've already mentioned, you will also need to explain why you have chosen these frameworks.
+
+00:13:44.000 --> 00:13:49.000
+But task 3, this is going to be or can be as simple as, well I've chosen this framework because it seems that there is a lot of that particular linguistic feature.
+
+00:13:49.000 --> 00:14:04.000
+So you might say, well, I've chosen to do a speech and thought analysis because there seems to be a lot of dialogue here which is presented in quite interesting ways.
+
+00:14:04.000 --> 00:14:13.000
+Or you might say while I have chosen to do a metaphor analysis because it seems that there is a lot of metaphorical language in this time and therefore I think it will be interesting to analyze it.
+
+00:14:13.000 --> 00:14:22.000
+So you don't need to go into much depth here, but you do need to demonstrate that you have considered what the most appropriate frameworks would be.
+
+00:14:22.000 --> 00:14:33.000
+There is no sense in doing a speech and thought analysis of a text that doesn't have any speech and thought in it, for example.
+
+00:14:33.000 --> 00:14:41.000
+3 analysis and interpretation. Remember that you are being expected to present your results in a clear and appropriate way.
+
+00:14:41.000 --> 00:14:55.000
+A lot of students like to use tables or an appendix to do that so that they can devote the rest of the word count the whole 1,000 words to picking out the interesting salient most important parts.
+
+00:14:55.000 --> 00:15:05.000
+And explaining why these are interesting and what effects they have. Remember that tables and appendices do not count towards the work count.
+
+00:15:05.000 --> 00:15:08.000
+And then of course, as I say, you'll want to ask yourself that question, how do the results of your analysis help to inform and justify particular interpretation?
+
+00:15:08.000 --> 00:15:26.000
+Or to put it another way, why is this interesting? Why do these particular linguistic features that have been identified, sort of grab your attention?
+
+00:15:26.000 --> 00:15:34.000
+What is the effect of their use? You might like to have a separate interpretation section instead of merging analysis and interpretation together, some people do prefer to do that.
+
+00:15:34.000 --> 00:15:48.000
+Where they have all of the analysis and then the interpretation coming next. Other people prefer to merge the 2 because it sort of maybe flows a little bit easier.
+
+00:15:48.000 --> 00:15:52.000
+That's up to you.
+
+00:15:52.000 --> 00:16:03.000
+Bye now you'll want to have a short conclusion. A short paragraph just wrapping everything up. One of the key points of your analysis and interpretation.
+
+00:16:03.000 --> 00:16:13.000
+You will be expected to draw on your reading. To help to support points that you make in this assignment.
+
+00:16:13.000 --> 00:16:22.000
+The majority of your citations will probably be in the introduction sections for each task where you introduce the frameworks and define the concepts.
+
+00:16:22.000 --> 00:16:35.000
+That is the easiest way to get those citations in. Some of you may want to use citations to help you to justify your choice of framework as well.
+
+00:16:35.000 --> 00:16:43.000
+So one example of this could be if you were looking at one of the political speeches and you wanted to look at metaphor in the political speeches.
+
+00:16:43.000 --> 00:16:55.000
+And you know that metaphor can be a good way of uncovering somebody's kind of attitudes or assumptions or understanding about the topic that they are.
+
+00:16:55.000 --> 00:17:10.000
+Talking about and you may also know that political discourse analysis often uses metaphor analysis. So you might choose to try to find an article which has applied metaphor analysis to political speeches.
+
+00:17:10.000 --> 00:17:20.000
+So that when you justify your choice of framework, you can say something like, metaphor analysis has been applied to public political speeches in the past.
+
+00:17:20.000 --> 00:17:28.000
+And the results have been interesting. And I want to sort of see how that can be applied to this speech as well.
+
+00:17:28.000 --> 00:17:37.000
+That is a little bit more advanced and I'm not expecting you to do that. It's just another way that you might want to use your reading.
+
+00:17:37.000 --> 00:17:46.000
+You may also wish to use further reading to deepen your interpretation section. I saw some of you do this in the diagnostic task.
+
+00:17:46.000 --> 00:17:56.000
+It's a really great effect. And this might be, for example, you comment on the effects of a particular linguistic technique.
+
+00:17:56.000 --> 00:18:18.000
+And you know that somebody else, some other researcher has already made a sort of similar comment. So other researchers might have, for example, commented on the use of, I don't know, modality, epistemic modality, as giving a sense of disorientation or uncertainty in the narrative.
+
+00:18:18.000 --> 00:18:26.000
+If you've done a modality analysis, and you've come to the same conclusion. For the text, the specific text that you're looking at.
+
+00:18:26.000 --> 00:18:41.000
+You might want to add that citation just to say, well, I think that this epistemic modality is contributing to this sense of disorientation as other people have also observed in their own analyses of epistemic modality.
+
+00:18:41.000 --> 00:18:42.000
+Again, as I say, that is going a little bit further. I'm not expecting you to do that.
+
+00:18:42.000 --> 00:18:55.000
+It just might be effective if you do. Use the readings from the appropriate week of the module as a starting point.
+
+00:18:55.000 --> 00:19:03.000
+It is very important that you do draw on the recommended readings and you don't just use other sources.
+
+00:19:03.000 --> 00:19:18.000
+Google Scholar and the Language and Literature Journal available via locate the library catalog may also prove useful if you do want to go further but as I say you do need to make sure that you use the recommended readings as well.
+
+00:19:18.000 --> 00:19:21.000
+Okay, so in terms of how you're going to be assessed, again, please take a look at the assignment brief.
+
+00:19:21.000 --> 00:19:29.000
+So that you See this in a little bit more context. But The module itself has 3 learning outcomes.
+
+00:19:29.000 --> 00:19:47.000
+The first one is to gain critical insights of key stylistic principles and concepts. What this means is I as a marker will be asking myself, do you understand what stylistics is and what it's for?
+
+00:19:47.000 --> 00:20:05.000
+Do you understand the different frameworks we've encountered when they might be useful to use? The second learning outcome is to be able to carry out advanced analyses in statistics using a range of linguistic tools to discuss the stylistic features of literary and nonliterary texts.
+
+00:20:05.000 --> 00:20:13.000
+In plain English. This is basically, can you use the frameworks to undertake an accurate analysis of a text?
+
+00:20:13.000 --> 00:20:28.000
+Is that analysis, that are systematic, and complete. And then finally, the third learning outcome is to synthesize the results of statistical analysis to inform critical interpretation of literary and non-literary texts.
+
+00:20:28.000 --> 00:20:37.000
+Again, translated, that means basically, can you use the results for your analyses to offer an evidence-based interpretation of a text?
+
+00:20:37.000 --> 00:20:48.000
+That's what we were talking about before, that balance between analysis and interpretation. It's the so what question, why is this interesting?
+
+00:20:48.000 --> 00:20:57.000
+Please take a look at this. Assessment marking criteria on the brief. It's a big table which demonstrates the kind of qualities that we're looking at or we're looking for.
+
+00:20:57.000 --> 00:21:12.000
+For work that hits the different brackets, percent brackets. It also shows you how the learning outcomes are assessed and how your mark is calculated.
+
+00:21:12.000 --> 00:21:24.000
+Your mark is actually calculated by totalling. 4 different areas as understanding and analysis which is worth 50% of your mark interpretation which is worth 30%.
+
+00:21:24.000 --> 00:21:32.000
+Reading and referencing which is worth 10% and then language structure and presentation which is worth another 10%.
+
+00:21:32.000 --> 00:21:43.000
+If you take a look at the table down here, the bit of black background, you'll see again some of the questions that I ask myself when I'm marking work in order to allocate a mark to each of these categories.
+
+00:21:43.000 --> 00:21:55.000
+Understanding and analysis does the work demonstrate an understanding of the concepts covered on the module, including of course the main goal of stylistic research is the analysis thorough, accurate and systematic.
+
+00:21:55.000 --> 00:22:03.000
+For interpretation, I'll be asking myself whether the interpretations of the findings you offer are plausible and sensible.
+
+00:22:03.000 --> 00:22:19.000
+Are they clearly linked back to your findings? Do you explain how the findings substantiate the interpretations? For reading and referencing, I look at the range of reading that you've included and whether this includes the recommended texts.
+
+00:22:19.000 --> 00:22:27.000
+As I said, it should do. I look at whether you've cited your sources correctly and whether you've correctly compiled the reference list.
+
+00:22:27.000 --> 00:22:36.000
+All sitesed sources need to be in the reference list and everything in the reference list needs to have a corresponding citation in the text.
+
+00:22:36.000 --> 00:22:43.000
+Also here I look at whether you've used APA style, APA citation conventions correctly and consistently.
+
+00:22:43.000 --> 00:22:50.000
+And then finally for language structure and presentation, I look at the extent to which your work is logically organized.
+
+00:22:50.000 --> 00:22:59.000
+How easy is it to follow the ideas and arguments both within and across sections? If you use abbreviations, do you introduce these?
+
+00:22:59.000 --> 00:23:09.000
+Do you signpost to link sections together? And guide the reader through your through your argument. I look at spelling and grammar, is, is it accurate?
+
+00:23:09.000 --> 00:23:15.000
+There are not many marks given for spelling and grammar, so I wouldn't worry too much if you have a couple of small typos in your work but do proofread.
+
+00:23:15.000 --> 00:23:23.000
+It really, really helps to give your work that kind of professional finish. Is the Stalin register appropriate for this sort of academic work?
+
+00:23:23.000 --> 00:23:36.000
+Are you using a sort of elegant, objective, formal style of writing. I is punctuation used appropriately and accurately.
+
+00:23:36.000 --> 00:23:52.000
+Okay. A reminder about referencing and avoiding plagiarism. Remember that you must include a citation in the text whenever you use words or ideas from a published source and a reference list at the end giving the details of the text you've used.
+
+00:23:52.000 --> 00:23:55.000
+Direct quotes must be in quotation marks. And remember that if you don't do this, you do run the risk of being accused of plagiarism.
+
+00:23:55.000 --> 00:24:16.000
+Which carries some quite heavy penalties. We use API style for the citations and referencing. If you're not sure what that is, you can refer to the link, the library guide at the URL that I put up on the slide there.
+
+00:24:16.000 --> 00:24:25.000
+If you download the PowerPoint from the older page that is sort of directly clickable, especially if you open it up as a presentation.
+
+00:24:25.000 --> 00:24:36.000
+If you're not confident in the use of APA, I strongly recommend that you take a look at the library workshops on offer and book onto an APA workshop.
+
+00:24:36.000 --> 00:24:43.000
+I also recommend that you take a look at the workshops offered by the Center for Academic Writing.
+
+00:24:43.000 --> 00:24:48.000
+They offer a couple of workshops on plagiarism. One is academic integrity, a practical introduction.
+
+00:24:48.000 --> 00:24:56.000
+And there's another one on using sources. Effectively in your work. So I really recommend that you take a look at those.
+
+00:24:56.000 --> 00:25:05.000
+They offer a lot of very, very good workshops. Not just on plagiarism. So do take a look there as well.
+
+00:25:05.000 --> 00:25:14.000
+Si think that's it for me. The next steps then over this week, independent learning week and as we enter the second half of the module.
+
+00:25:14.000 --> 00:25:21.000
+Please pick and work on your portfolio now, even if it's just to think about which frameworks and texts you might like to choose out of what we've done so far.
+
+00:25:21.000 --> 00:25:27.000
+Remember that we still have a few weeks of content left to go. So if you're really not sure.
+
+00:25:27.000 --> 00:25:42.000
+That's okay. You might gain inspiration from some of the next frameworks we look at. As always, please do not hesitate to email me with any questions or to email to book an appointment or to use the booking link on the Getting Help page.
+
+00:25:42.000 --> 00:25:50.000
+To get a tutorial with me. At this point in the module, it's really important that we can iron out any doubts.
+
+00:25:50.000 --> 00:25:55.000
+Clear up any questions that you might have. So that you are in good shape to start your portfolio.
+
+00:25:55.000 --> 00:26:07.000
+Okay, thanks
+
